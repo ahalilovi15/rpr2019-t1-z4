@@ -33,4 +33,7 @@ public class Korpa {
     public Artikl[] getArtikli() {
         return artikli;
     }
+    public int getBr_dodanih(){
+        return br_dodanih;
+    }
 }
